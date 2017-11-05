@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="class-authenticate" type="PHP" />
+      <mapping pattern="to-do" type="PHP" />
+      <mapping pattern="to-do.php" type="PLAIN_TEXT" />
+      <mapping pattern="class-authenticate.php" type="PLAIN_TEXT" />
+      <mapping pattern="page-database-entry.php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

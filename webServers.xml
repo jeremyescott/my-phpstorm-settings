@@ -1,0 +1,17 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cadf65d3-cd21-45d4-aa44-081c142b3692" name="Linkous Staging" url="https://linkousrecruiting-staging.vxgiqrq3-liquidwebsites.com/">
+        <fileTransfer host="67.227.195.190" port="22" rootFolder="/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ab92ba4e-9d1a-4a60-a6de-986facd3ac85" name="MatadorJobs.com" url="http://localhost/matadorjobs.com/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
