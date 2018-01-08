@@ -1,0 +1,47 @@
+<profile version="1.0">
+  <option name="myName" value="Jeremy's Default" />
+  <inspection_tool class="HtmlUnknownAnchorTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="10">
+          <item index="0" class="java.lang.String" itemvalue="%s" />
+          <item index="1" class="java.lang.String" itemvalue="%1$s" />
+          <item index="2" class="java.lang.String" itemvalue="%2$s" />
+          <item index="3" class="java.lang.String" itemvalue="%3$s" />
+          <item index="4" class="java.lang.String" itemvalue="%4$s" />
+          <item index="5" class="java.lang.String" itemvalue="%5$s" />
+          <item index="6" class="java.lang.String" itemvalue="%6$s" />
+          <item index="7" class="java.lang.String" itemvalue="%7$s" />
+          <item index="8" class="java.lang.String" itemvalue="%8$s" />
+          <item index="9" class="java.lang.String" itemvalue="%9$s" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+    <myValues>
+      <item value="%s" />
+      <item value="%1$s" />
+      <item value="%2$s" />
+      <item value="%3$s" />
+      <item value="%4$s" />
+      <item value="%5$s" />
+      <item value="%6$s" />
+      <item value="%7$s" />
+      <item value="%8$s" />
+      <item value="%9$s" />
+    </myValues>
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="CODING_STANDARD" value="WordPress-Extra" />
+  </inspection_tool>
+  <inspection_tool class="PhpIncludeInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="NOTIFY_ACCESS_VIA_MAGIC_METHOD" value="false" />
+  </inspection_tool>
+  <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SqlStorageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+</profile>
