@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="1cad040b-7ebd-4be3-844a-8d7e04fba0b7" name="Bridgeview IT" url="http://bridgeviewit.sftp.wpengine.com">
+        <fileTransfer host="bridgeviewit.sftp.wpengine.com" port="2222" rootFolder="/wp-content/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
       <webServer id="733c671f-827b-482a-8501-0a06c1b7949d" name="Linkous Staging" url="http://67.227.195.190">
         <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s28" accessType="SFTP">
           <advancedOptions>
