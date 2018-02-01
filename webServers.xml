@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="fbf2857f-4699-4b10-b8d8-5c5301c1436d" name="Bacharach" url="http://75.98.168.115">
+        <fileTransfer host="75.98.168.115" port="21" rootFolder="/public_html/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="1cad040b-7ebd-4be3-844a-8d7e04fba0b7" name="Bridgeview IT" url="http://bridgeviewit.sftp.wpengine.com">
         <fileTransfer host="bridgeviewit.sftp.wpengine.com" port="2222" rootFolder="/wp-content/" accessType="SFTP">
           <advancedOptions>
