@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="733c671f-827b-482a-8501-0a06c1b7949d" name="Linkous Staging" url="http://67.227.195.190">
-        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s243" accessType="SFTP">
+        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s342" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
