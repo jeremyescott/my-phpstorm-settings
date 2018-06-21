@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="4ce5eef9-d334-4dcf-a32b-224be6cab2f6" name="IrvingScott.com" url="http://wp563866.dreamhostps.com">
+        <fileTransfer host="wp563866.dreamhostps.com" port="22" rootFolder="/home/wp_a4c5eb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="fbf2857f-4699-4b10-b8d8-5c5301c1436d" name="Bacharach" url="http://75.98.168.115">
         <fileTransfer host="75.98.168.115" port="21" rootFolder="/public_html/">
           <advancedOptions>
