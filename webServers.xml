@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1cad040b-7ebd-4be3-844a-8d7e04fba0b7" name="Bridgeview IT" url="http://bridgeviewit.sftp.wpengine.com">
-        <fileTransfer host="bridgeviewit.sftp.wpengine.com" port="2222" rootFolder="/wp-content/" accessType="SFTP">
+        <fileTransfer host="bridgeviewit.sftp.wpengine.com" port="2222" rootFolder="/wp-content" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
