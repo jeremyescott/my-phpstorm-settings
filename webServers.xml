@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="be4dccca-0a2b-4ac4-acf2-bb18af46bb3e" name="LucasGroup Staging" url="http://dev.lucasgroup.com">
+        <fileTransfer host="dev.lucasgroup.com" port="2222" rootFolder="/mnt/www/dev.lucasgroup.com/en" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
       <webServer id="5157f0ea-bfb9-4515-b668-f152b8290feb" name="EFOverwatch Live" url="http://efoverwatch.com">
         <fileTransfer host="efoverwatch.com" port="21" rootFolder="/public_html">
           <advancedOptions>
