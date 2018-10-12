@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="5157f0ea-bfb9-4515-b668-f152b8290feb" name="EFOverwatch Live" url="http://efoverwatch.com">
-        <fileTransfer host="efoverwatch.com" port="21" rootFolder="/public_html">
+        <fileTransfer host="efoverwatch.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
