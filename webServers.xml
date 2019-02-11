@@ -1,44 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="be4dccca-0a2b-4ac4-acf2-bb18af46bb3e" name="LucasGroup Staging" url="http://dev.lucasgroup.com">
-        <fileTransfer host="dev.lucasgroup.com" port="2222" rootFolder="/mnt/www/dev.lucasgroup.com/en" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="5157f0ea-bfb9-4515-b668-f152b8290feb" name="EFOverwatch Live" url="http://efoverwatch.com">
-        <fileTransfer host="efoverwatch.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="4ce5eef9-d334-4dcf-a32b-224be6cab2f6" name="IrvingScott.com" url="http://wp563866.dreamhostps.com">
         <fileTransfer host="wp563866.dreamhostps.com" port="22" rootFolder="/home/wp_a4c5eb" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="fbf2857f-4699-4b10-b8d8-5c5301c1436d" name="Bacharach" url="http://75.98.168.115">
-        <fileTransfer host="75.98.168.115" port="21" rootFolder="/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="1cad040b-7ebd-4be3-844a-8d7e04fba0b7" name="Bridgeview IT" url="http://bridgeviewit.sftp.wpengine.com">
-        <fileTransfer host="bridgeviewit.sftp.wpengine.com" port="2222" rootFolder="/wp-content" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
       <webServer id="733c671f-827b-482a-8501-0a06c1b7949d" name="Linkous Staging" url="http://67.227.195.190">
