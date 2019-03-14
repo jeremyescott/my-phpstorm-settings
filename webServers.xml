@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="529e87e8-25a3-4b0b-bd35-049482eb44bb" name="Linkous Live" url="http://67.227.195.190">
+        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="2dc9e0c7-ac74-423f-b1a5-c7c9b1419259" name="Laufer" url="http://lauferandassoc.sftp.wpengine.com">
         <fileTransfer host="lauferandassoc.sftp.wpengine.com" port="2222" accessType="SFTP">
           <advancedOptions>
