@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="9a5fd93b-18f7-43bb-a408-8f7e1fbb2e1a" name="DeVore Staging" url="http://67.227.195.190">
+        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s1485" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b58a222-59a4-42b7-b5c1-dcfc668b1be5" name="DeVore Live" url="http://69.163.240.119">
+        <fileTransfer host="69.163.240.119" port="22" rootFolder="/home/wp_znxmev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="529e87e8-25a3-4b0b-bd35-049482eb44bb" name="Linkous Live" url="http://67.227.195.190">
         <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s2" accessType="SFTP">
           <advancedOptions>
