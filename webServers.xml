@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="bad28050-fd34-46f9-8c4a-49ce7621e47b" name="Ian Martin Staging" url="https://staging.ianmartin.com">
+        <fileTransfer host="64.91.251.219" port="22" rootFolder="/home/s6" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="9a5fd93b-18f7-43bb-a408-8f7e1fbb2e1a" name="DeVore Staging" url="http://67.227.195.190">
         <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s1485" accessType="SFTP">
           <advancedOptions>
