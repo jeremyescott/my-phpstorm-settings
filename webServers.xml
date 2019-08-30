@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="a1558e60-55df-475f-86b1-d6c9a3de62e2" name="Mathison.io" url="http://mathison.io">
+        <fileTransfer host="mathison.io" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="3d0fac78-5c31-4f5b-bf1d-59d121fd4706" name="Matador Demo" url="http://67.227.195.190">
         <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s440" accessType="SFTP">
           <advancedOptions>
