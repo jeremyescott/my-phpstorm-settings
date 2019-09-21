@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="bcfddf67-fe96-4901-991c-3b8dca7b6e58" name="Beach Head (LW Staging)" url="http://67.227.195.190">
+        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s2071" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="a1558e60-55df-475f-86b1-d6c9a3de62e2" name="Mathison.io" url="http://mathison.io">
         <fileTransfer host="mathison.io" port="21" rootFolder="/public_html">
           <advancedOptions>
