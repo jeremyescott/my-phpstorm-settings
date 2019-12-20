@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="e500224d-6ae8-4363-9d9c-b7ab0e3a1c40" name="MarketStar Live" url="http://159.89.128.133">
+        <fileTransfer host="159.89.128.133" port="22" rootFolder="/applications/pczbdyneut/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="278a5fdf-0877-4404-a3d1-7c1c5fe8907b" name="Careers in Aesthetics" url="http://67.227.195.190">
         <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s2141" accessType="SFTP">
           <advancedOptions>
