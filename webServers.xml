@@ -9,8 +9,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="BIOPNR (Staging, LW)" url="http://67.227.195.190">
-        <fileTransfer host="67.227.195.190" port="22" rootFolder="/home/s2302" accessType="SFTP">
+      <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="jobs.biotechrecruiter.com" url="http://jobs.biotechrecruiter.com/">
+        <fileTransfer host="jobs.biotechrecruiter.com.dream.website" port="22" rootFolder="/home/wp_m2pyya" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
