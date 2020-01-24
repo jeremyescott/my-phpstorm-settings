@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="849e010b-0cc2-4709-9407-df4bdd71f264" name="Tochlight" url="http://csgcreative.com">
-        <fileTransfer host="csgcreative.com" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="jobs.biotechrecruiter.com" url="http://jobs.biotechrecruiter.com/">
         <fileTransfer host="jobs.biotechrecruiter.com.dream.website" port="22" rootFolder="/home/wp_m2pyya" accessType="SFTP">
           <advancedOptions>
