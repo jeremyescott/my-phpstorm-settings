@@ -11,7 +11,6 @@
       <sshConfig authType="PASSWORD" host="67.227.195.190" id="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" port="22" customName="Linkous Live" nameFormat="CUSTOM" username="s2" />
       <sshConfig authType="PASSWORD" host="lauferandassoc.sftp.wpengine.com" id="5497b4ea-8a45-45e1-8c83-c3a03676d91a" port="2222" customName="Laufer" nameFormat="CUSTOM" username="lauferandassoc-hmg-client" />
       <sshConfig authType="PASSWORD" host="wp563866.dreamhostps.com" id="8e2245da-968b-454d-9dd2-7844e5527c3c" port="22" customName="IrvingScott.com" nameFormat="CUSTOM" username="wp_a4c5eb" />
-      <sshConfig authType="PASSWORD" host="67.227.195.190" id="8c599219-9223-4a51-94e2-70b13caa97ff" port="22" customName="Linkous Staging" nameFormat="CUSTOM" username="s343" />
       <sshConfig authType="PASSWORD" host="67.227.195.190" id="b03d76ed-8c92-4081-90af-1054ca82ddfc" port="22" customName="Linkous Staging" nameFormat="CUSTOM" username="s343" />
     </configs>
   </component>
