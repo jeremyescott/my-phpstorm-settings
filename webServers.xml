@@ -7,21 +7,21 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="jobs.biotechrecruiter.com" url="http://jobs.biotechrecruiter.com/">
-        <fileTransfer rootFolder="/home/wp_m2pyya" accessType="SFTP" sshConfigId="1fd63da4-0601-42a5-aeb6-95c9d14426f8" sshConfig="jobs.biotechrecruiter.com">
+        <fileTransfer rootFolder="/home/wp_m2pyya" accessType="SFTP" host="jobs.biotechrecruiter.com.dream.website" port="22" sshConfigId="5a71c751-0370-465e-9392-f2c648240082" sshConfig="jobs.biotechrecruiter.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="e500224d-6ae8-4363-9d9c-b7ab0e3a1c40" name="MarketStar Live" url="http://159.89.128.133">
-        <fileTransfer rootFolder="/applications/pczbdyneut/public_html/" accessType="SFTP" sshConfigId="f75cd317-16dc-40c9-b233-3c51b7fdccc5" sshConfig="MarketStar Live">
+        <fileTransfer rootFolder="/applications/pczbdyneut/public_html/" accessType="SFTP" host="159.89.128.133" port="22" sshConfigId="5d6a1881-78b5-4e28-960d-4f415ee94531" sshConfig="MarketStar Live">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="278a5fdf-0877-4404-a3d1-7c1c5fe8907b" name="Careers in Aesthetics" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s2141" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="Careers in Aesthetics">
+        <fileTransfer rootFolder="/home/s2141" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="CIA">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -35,49 +35,49 @@
         </fileTransfer>
       </webServer>
       <webServer id="3d0fac78-5c31-4f5b-bf1d-59d121fd4706" name="Matador Demo" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s440" accessType="SFTP" sshConfigId="e83da994-3472-4fe4-9ca3-a2f368f1ee92" sshConfig="Matador Demo">
+        <fileTransfer rootFolder="/home/s440" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="72054c54-db39-4404-a4a8-7a8c5cdd5293" sshConfig="Matador Demo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="bad28050-fd34-46f9-8c4a-49ce7621e47b" name="Ian Martin Staging" url="https://staging.ianmartin.com">
-        <fileTransfer rootFolder="/home/s6" accessType="SFTP" sshConfigId="71f902a3-643a-4f58-a704-55e3ed4065d7" sshConfig="Ian Martin Staging">
+        <fileTransfer rootFolder="/home/s6" accessType="SFTP" host="64.91.251.219" port="22" sshConfigId="1b7f69ce-b66f-4761-997e-430017387199" sshConfig="Ian Martin Staging">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="9a5fd93b-18f7-43bb-a408-8f7e1fbb2e1a" name="DeVore Staging" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s1485" accessType="SFTP" sshConfigId="390ad098-7c21-4d74-b0b0-c17b5bef24d5" sshConfig="DeVore Staging">
+        <fileTransfer rootFolder="/home/s1485" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="61c463f7-5768-4953-b988-03947565a1de" sshConfig="DeVore Staging">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="1b58a222-59a4-42b7-b5c1-dcfc668b1be5" name="DeVore Live" url="http://69.163.240.119">
-        <fileTransfer rootFolder="/home/wp_znxmev" accessType="SFTP" sshConfigId="45bef700-ec59-4a94-8dd1-0bce6fc962a8" sshConfig="DeVore Live">
+        <fileTransfer rootFolder="/home/wp_znxmev" accessType="SFTP" host="69.163.240.119" port="22" sshConfigId="de3ae677-9bf6-456f-8d7b-14c365762733" sshConfig="DeVore Live">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="529e87e8-25a3-4b0b-bd35-049482eb44bb" name="Linkous Live" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s2" accessType="SFTP" sshConfigId="1e91478f-580d-47e6-9d23-5100fee893bd" sshConfig="Linkous Live">
+        <fileTransfer rootFolder="/home/s2" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" sshConfig="Linkous Live">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="2dc9e0c7-ac74-423f-b1a5-c7c9b1419259" name="Laufer" url="http://lauferandassoc.sftp.wpengine.com">
-        <fileTransfer accessType="SFTP" sshConfigId="197d86d6-ba01-44d4-ae04-f2c7f8fdad67" sshConfig="Laufer">
+        <fileTransfer accessType="SFTP" host="lauferandassoc.sftp.wpengine.com" port="2222" sshConfigId="5497b4ea-8a45-45e1-8c83-c3a03676d91a" sshConfig="Laufer">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="4ce5eef9-d334-4dcf-a32b-224be6cab2f6" name="IrvingScott.com" url="http://wp563866.dreamhostps.com">
-        <fileTransfer rootFolder="/home/wp_a4c5eb" accessType="SFTP" sshConfigId="4c56b7b2-715d-4a51-a2de-b8c964331301" sshConfig="IrvingScott.com">
+        <fileTransfer rootFolder="/home/wp_a4c5eb" accessType="SFTP" host="wp563866.dreamhostps.com" port="22" sshConfigId="8e2245da-968b-454d-9dd2-7844e5527c3c" sshConfig="IrvingScott.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
