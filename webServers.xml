@@ -21,7 +21,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="278a5fdf-0877-4404-a3d1-7c1c5fe8907b" name="Careers in Aesthetics" url="https://mlconf.com">
-        <fileTransfer rootFolder="/chroot/home/a2be09ec" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="CIA">
+        <fileTransfer rootFolder="/chroot/home/a2be09ec" accessType="SFTP" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="CIA">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
