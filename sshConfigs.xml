@@ -1,7 +1,6 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="69.163.240.119" id="de3ae677-9bf6-456f-8d7b-14c365762733" port="22" customName="DeVore Live" nameFormat="CUSTOM" username="wp_znxmev" />
       <sshConfig authType="PASSWORD" host="67.227.195.190" id="61c463f7-5768-4953-b988-03947565a1de" port="22" customName="DeVore Staging" nameFormat="CUSTOM" username="s1485" />
       <sshConfig authType="PASSWORD" host="64.91.251.219" id="1b7f69ce-b66f-4761-997e-430017387199" port="22" customName="Ian Martin Staging" nameFormat="CUSTOM" username="s6" />
       <sshConfig authType="PASSWORD" host="wp563866.dreamhostps.com" id="8e2245da-968b-454d-9dd2-7844e5527c3c" port="22" customName="IrvingScott.com" nameFormat="CUSTOM" username="wp_a4c5eb" />
