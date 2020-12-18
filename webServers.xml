@@ -6,6 +6,13 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
+        <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="MCM Stage">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="jobs.biotechrecruiter.com" url="http://jobs.biotechrecruiter.com/">
         <fileTransfer rootFolder="/home/wp_m2pyya" accessType="SFTP" host="jobs.biotechrecruiter.com.dream.website" port="22" sshConfigId="5a71c751-0370-465e-9392-f2c648240082" sshConfig="jobs.biotechrecruiter.com">
           <advancedOptions>
