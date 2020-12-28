@@ -7,7 +7,7 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
-        <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="mcmstaffing-matador@mcmstaffing.sftp.wpengine.com:2222 password">
+        <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="MCM Stage">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
