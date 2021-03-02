@@ -83,13 +83,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="4ce5eef9-d334-4dcf-a32b-224be6cab2f6" name="IrvingScott.com" url="http://wp563866.dreamhostps.com">
-        <fileTransfer rootFolder="/home/wp_a4c5eb" accessType="SFTP" host="wp563866.dreamhostps.com" port="22" sshConfigId="8e2245da-968b-454d-9dd2-7844e5527c3c" sshConfig="IrvingScott.com">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="733c671f-827b-482a-8501-0a06c1b7949d" name="Linkous Staging" url="http://67.227.195.190">
         <fileTransfer rootFolder="/home/s343" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="b03d76ed-8c92-4081-90af-1054ca82ddfc" sshConfig="Linkous Staging">
           <advancedOptions>
