@@ -1,16 +1,35 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="67.227.195.190" id="61c463f7-5768-4953-b988-03947565a1de" port="22" customName="DeVore Staging" nameFormat="CUSTOM" username="s1485" />
-      <sshConfig authType="PASSWORD" host="64.91.251.219" id="1b7f69ce-b66f-4761-997e-430017387199" port="22" customName="Ian Martin Staging" nameFormat="CUSTOM" username="s6" />
-      <sshConfig authType="PASSWORD" host="wp563866.dreamhostps.com" id="8e2245da-968b-454d-9dd2-7844e5527c3c" port="22" customName="IrvingScott.com" nameFormat="CUSTOM" username="wp_a4c5eb" />
-      <sshConfig authType="PASSWORD" host="jobs.biotechrecruiter.com.dream.website" id="5a71c751-0370-465e-9392-f2c648240082" port="22" customName="jobs.biotechrecruiter.com" nameFormat="CUSTOM" username="wp_m2pyya" />
-      <sshConfig authType="PASSWORD" host="lauferandassoc.sftp.wpengine.com" id="5497b4ea-8a45-45e1-8c83-c3a03676d91a" port="2222" customName="Laufer" nameFormat="CUSTOM" username="lauferandassoc-hmg-client" />
-      <sshConfig authType="PASSWORD" host="67.227.195.190" id="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" port="22" customName="Linkous Live" nameFormat="CUSTOM" username="s2" />
-      <sshConfig authType="PASSWORD" host="67.227.195.190" id="b03d76ed-8c92-4081-90af-1054ca82ddfc" port="22" customName="Linkous Staging" nameFormat="CUSTOM" username="s343" />
-      <sshConfig authType="PASSWORD" host="159.89.128.133" id="5d6a1881-78b5-4e28-960d-4f415ee94531" port="22" customName="MarketStar Live" nameFormat="CUSTOM" username="master_qtpbhzpbcp" />
-      <sshConfig authType="PASSWORD" host="67.227.195.190" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="s440" />
+      <sshConfig authType="PASSWORD" host="67.227.195.190" id="61c463f7-5768-4953-b988-03947565a1de" port="22" customName="DeVore Staging" nameFormat="CUSTOM" username="s1485">
+        <option name="customName" value="DeVore Staging" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="64.91.251.219" id="1b7f69ce-b66f-4761-997e-430017387199" port="22" customName="Ian Martin Staging" nameFormat="CUSTOM" username="s6">
+        <option name="customName" value="Ian Martin Staging" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="wp563866.dreamhostps.com" id="8e2245da-968b-454d-9dd2-7844e5527c3c" port="22" customName="IrvingScott.com" nameFormat="CUSTOM" username="wp_a4c5eb">
+        <option name="customName" value="IrvingScott.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="jobs.biotechrecruiter.com.dream.website" id="5a71c751-0370-465e-9392-f2c648240082" port="22" customName="jobs.biotechrecruiter.com" nameFormat="CUSTOM" username="wp_m2pyya">
+        <option name="customName" value="jobs.biotechrecruiter.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="lauferandassoc.sftp.wpengine.com" id="5497b4ea-8a45-45e1-8c83-c3a03676d91a" port="2222" customName="Laufer" nameFormat="CUSTOM" username="lauferandassoc-hmg-client">
+        <option name="customName" value="Laufer" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="67.227.195.190" id="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" port="22" customName="Linkous Live" nameFormat="CUSTOM" username="s2">
+        <option name="customName" value="Linkous Live" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="67.227.195.190" id="b03d76ed-8c92-4081-90af-1054ca82ddfc" port="22" customName="Linkous Staging" nameFormat="CUSTOM" username="s343">
+        <option name="customName" value="Linkous Staging" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="159.89.128.133" id="5d6a1881-78b5-4e28-960d-4f415ee94531" port="22" customName="MarketStar Live" nameFormat="CUSTOM" username="master_qtpbhzpbcp">
+        <option name="customName" value="MarketStar Live" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="67.227.195.190" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="s440">
+        <option name="customName" value="Matador Demo" />
+      </sshConfig>
       <sshConfig authType="PASSWORD" host="mcmstaffing.sftp.wpengine.com" id="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" port="2222" nameFormat="DESCRIPTIVE" username="mcmstaffing-matador" />
+      <sshConfig host="localhost" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
     </configs>
   </component>
 </application>

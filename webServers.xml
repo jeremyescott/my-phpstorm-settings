@@ -27,13 +27,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="278a5fdf-0877-4404-a3d1-7c1c5fe8907b" name="Careers in Aesthetics" url="https://mlconf.com">
-        <fileTransfer rootFolder="/chroot/home/a2be09ec" accessType="SFTP" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="CIA">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="a1558e60-55df-475f-86b1-d6c9a3de62e2" name="Mathison.io" url="http://mathison.io">
         <fileTransfer rootFolder="/public_html" host="mathison.io" port="21">
           <advancedOptions>
