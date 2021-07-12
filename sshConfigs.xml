@@ -32,6 +32,9 @@
       <sshConfig host="ireland-allenrecruitment.vps.pagelyhosting.com" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Allen Recruitment" nameFormat="CUSTOM" username="client_matador_2">
         <option name="customName" value="Allen Recruitment" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="67.227.195.190" id="8f8db07b-ad38-4746-955b-dcd6a92d705c" port="22" customName="LHS Stage (LWMWP)" nameFormat="CUSTOM" username="s4593">
+        <option name="customName" value="LHS Stage (LWMWP)" />
+      </sshConfig>
     </configs>
   </component>
 </application>
