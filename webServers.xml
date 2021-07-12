@@ -6,6 +6,13 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="e601490d-dcb6-4112-873c-4093aa778b62" name="AllenRec">
+        <fileTransfer rootFolder="/data/s1456058/dom37417/dom37417" accessType="SFTP" host="ireland-allenrecruitment.vps.pagelyhosting.com" port="22" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="Allen Recruitment" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="997a20c5-38bd-4b90-a3f0-746bbc9877b6" name="LHS Stage">
         <fileTransfer rootFolder="/home/s4593" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="8f8db07b-ad38-4746-955b-dcd6a92d705c" sshConfig="LHS Stage (LWMWP)">
           <advancedOptions>
