@@ -13,13 +13,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="997a20c5-38bd-4b90-a3f0-746bbc9877b6" name="LHS Stage">
-        <fileTransfer rootFolder="/home/s4593" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="8f8db07b-ad38-4746-955b-dcd6a92d705c" sshConfig="LHS Stage (LWMWP)">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
         <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="mcmstaffing-matador@mcmstaffing.sftp.wpengine.com:2222 password">
           <advancedOptions>
