@@ -7,28 +7,28 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="e601490d-dcb6-4112-873c-4093aa778b62" name="AllenRec">
-        <fileTransfer rootFolder="/data/s1456058/dom37417/dom37417" accessType="SFTP" host="ireland-allenrecruitment.vps.pagelyhosting.com" port="22" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="Allen Recruitment" keyPair="true">
+        <fileTransfer rootFolder="/data/s1456058/dom37417/dom37417" accessType="SFTP" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="Allen Recruitment">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
-        <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="mcmstaffing-matador@mcmstaffing.sftp.wpengine.com:2222 password">
+        <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="MCM">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="6b725870-cce2-4504-b0cc-c535d3363d9c" name="jobs.biotechrecruiter.com" url="http://jobs.biotechrecruiter.com/">
-        <fileTransfer rootFolder="/home/wp_m2pyya" accessType="SFTP" host="jobs.biotechrecruiter.com.dream.website" port="22" sshConfigId="5a71c751-0370-465e-9392-f2c648240082" sshConfig="jobs.biotechrecruiter.com">
+        <fileTransfer rootFolder="/home/wp_m2pyya" accessType="SFTP" sshConfigId="5a71c751-0370-465e-9392-f2c648240082" sshConfig="jobs.biotechrecruiter.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="e500224d-6ae8-4363-9d9c-b7ab0e3a1c40" name="MarketStar Live" url="http://159.89.128.133">
-        <fileTransfer rootFolder="/applications/pczbdyneut/public_html/" accessType="SFTP" host="159.89.128.133" port="22" sshConfigId="5d6a1881-78b5-4e28-960d-4f415ee94531" sshConfig="MarketStar Live">
+        <fileTransfer rootFolder="/applications/pczbdyneut/public_html/" accessType="SFTP" sshConfigId="5d6a1881-78b5-4e28-960d-4f415ee94531" sshConfig="MarketStar Live">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -42,14 +42,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="3d0fac78-5c31-4f5b-bf1d-59d121fd4706" name="Matador Demo" url="https://demo.matadorjobs.com/">
-        <fileTransfer rootFolder="/home/s440" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="72054c54-db39-4404-a4a8-7a8c5cdd5293" sshConfig="Matador Demo">
+        <fileTransfer rootFolder="/home/s440" accessType="SFTP" host="1308a6f198.nxcli.net" port="22" sshConfigId="72054c54-db39-4404-a4a8-7a8c5cdd5293" sshConfig="Matador Demo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="bad28050-fd34-46f9-8c4a-49ce7621e47b" name="Ian Martin Staging" url="https://staging.ianmartin.com">
-        <fileTransfer rootFolder="/home/s6" accessType="SFTP" host="64.91.251.219" port="22" sshConfigId="1b7f69ce-b66f-4761-997e-430017387199" sshConfig="Ian Martin Staging">
+        <fileTransfer rootFolder="/home/s6" accessType="SFTP" sshConfigId="1b7f69ce-b66f-4761-997e-430017387199" sshConfig="Ian Martin Staging">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

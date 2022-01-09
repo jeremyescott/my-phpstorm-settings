@@ -4,27 +4,17 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="67.227.195.190" id="61c463f7-5768-4953-b988-03947565a1de" port="22" customName="DeVore Staging" nameFormat="CUSTOM" username="s1485">
         <option name="customName" value="DeVore Staging" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="64.91.251.219" id="1b7f69ce-b66f-4761-997e-430017387199" port="22" customName="Ian Martin Staging" nameFormat="CUSTOM" username="s6">
-        <option name="customName" value="Ian Martin Staging" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="wp563866.dreamhostps.com" id="8e2245da-968b-454d-9dd2-7844e5527c3c" port="22" customName="IrvingScott.com" nameFormat="CUSTOM" username="wp_a4c5eb">
-        <option name="customName" value="IrvingScott.com" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="jobs.biotechrecruiter.com.dream.website" id="5a71c751-0370-465e-9392-f2c648240082" port="22" customName="jobs.biotechrecruiter.com" nameFormat="CUSTOM" username="wp_m2pyya">
-        <option name="customName" value="jobs.biotechrecruiter.com" />
-      </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lauferandassoc.sftp.wpengine.com" id="5497b4ea-8a45-45e1-8c83-c3a03676d91a" port="2222" customName="Laufer" nameFormat="CUSTOM" username="lauferandassoc-hmg-client">
         <option name="customName" value="Laufer" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="159.89.128.133" id="5d6a1881-78b5-4e28-960d-4f415ee94531" port="22" customName="MarketStar Live" nameFormat="CUSTOM" username="master_qtpbhzpbcp">
-        <option name="customName" value="MarketStar Live" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="67.227.195.190" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="s440">
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="1308a6f198.nxcli.net" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="a0fc0ca2_1">
         <option name="customName" value="Matador Demo" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mcmstaffing.sftp.wpengine.com" id="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" port="2222" nameFormat="DESCRIPTIVE" username="mcmstaffing-matador" />
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ireland-allenrecruitment.vps.pagelyhosting.com" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Allen Recruitment" nameFormat="CUSTOM" username="client_matador_2">
-        <option name="customName" value="Allen Recruitment" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mcmstaffing.sftp.wpengine.com" id="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" port="2222" customName="MCM" nameFormat="CUSTOM" username="mcmstaffing-matador">
+        <option name="customName" value="MCM" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="0297907e2e.nxcli.net" id="e7af6bb6-fcaa-4533-a7bf-632b39f1f521" port="22" customName="Matador Sandbox" nameFormat="CUSTOM" username="a986f92d_1">
+        <option name="customName" value="Matador Sandbox" />
       </sshConfig>
     </configs>
   </component>
