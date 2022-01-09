@@ -70,7 +70,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="529e87e8-25a3-4b0b-bd35-049482eb44bb" name="Linkous Live" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s2" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" sshConfig="Linkous Live">
+        <fileTransfer rootFolder="/home/s2" accessType="SFTP" sshConfigId="b91e0ae2-1cc4-4566-8ce8-e56f8755c7fc" sshConfig="Linkous Live">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -84,7 +84,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="733c671f-827b-482a-8501-0a06c1b7949d" name="Linkous Staging" url="http://67.227.195.190">
-        <fileTransfer rootFolder="/home/s343" accessType="SFTP" host="67.227.195.190" port="22" sshConfigId="b03d76ed-8c92-4081-90af-1054ca82ddfc" sshConfig="Linkous Staging">
+        <fileTransfer rootFolder="/home/s343" accessType="SFTP" sshConfigId="b03d76ed-8c92-4081-90af-1054ca82ddfc" sshConfig="Linkous Staging">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
