@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3d0fac78-5c31-4f5b-bf1d-59d121fd4706" name="Matador Demo" url="https://demo.matadorjobs.com/">
-        <fileTransfer rootFolder="/chroot/home/a0fc0ca2/public_html/" accessType="SFTP" host="1308a6f198.nxcli.net" port="22" sshConfigId="72054c54-db39-4404-a4a8-7a8c5cdd5293" sshConfig="Matador Demo">
+        <fileTransfer rootFolder="/chroot/home/a0fc0ca2" accessType="SFTP" host="1308a6f198.nxcli.net" port="22" sshConfigId="72054c54-db39-4404-a4a8-7a8c5cdd5293" sshConfig="Matador Demo">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
