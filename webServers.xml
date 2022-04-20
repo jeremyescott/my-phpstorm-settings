@@ -7,9 +7,9 @@
     </sftpAdvancedGlobalOptions>
     <option name="servers">
       <webServer id="e601490d-dcb6-4112-873c-4093aa778b62" name="AllenRec">
-        <fileTransfer rootFolder="/data/s1456058/dom37417/dom37417" accessType="SFTP" sshConfigId="41c2210e-e6b5-4801-922f-0b38625a1d9a" sshConfig="Allen Recruitment">
+        <fileTransfer rootFolder="/chroot/home/a8b25cc9" accessType="SFTP" host="98c4fd5648.nxcli.net" port="22" sshConfigId="616a9d39-9ce6-4b58-9041-0fd6dea4fc1e" sshConfig="Team Bonanaza App">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
