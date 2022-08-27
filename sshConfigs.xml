@@ -16,7 +16,7 @@
       <sshConfig authType="PASSWORD" host="0297907e2e.nxcli.net" id="e7af6bb6-fcaa-4533-a7bf-632b39f1f521" port="22" customName="Matador Sandbox" nameFormat="CUSTOM" username="a986f92d_1" useOpenSSHConfig="true">
         <option name="customName" value="Matador Sandbox" />
       </sshConfig>
-      <sshConfig host="localhost" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="tactstaffdev.sftp.wpengine.com" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" port="2222" nameFormat="DESCRIPTIVE" username="tactstaffdev-jeremy" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
