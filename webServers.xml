@@ -6,13 +6,6 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="e601490d-dcb6-4112-873c-4093aa778b62" name="AllenRec">
-        <fileTransfer rootFolder="/chroot/home/a8b25cc9" accessType="SFTP" host="98c4fd5648.nxcli.net" port="22" sshConfigId="616a9d39-9ce6-4b58-9041-0fd6dea4fc1e" sshConfig="Team Bonanaza App">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
         <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="MCM">
           <advancedOptions>
