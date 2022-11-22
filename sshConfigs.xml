@@ -17,7 +17,9 @@
         <option name="customName" value="Matador Sandbox" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="tactstaffdev.sftp.wpengine.com" id="41c2210e-e6b5-4801-922f-0b38625a1d9a" port="2222" nameFormat="DESCRIPTIVE" username="tactstaffdev-jeremy" useOpenSSHConfig="true" />
-      <sshConfig host="localhost" id="616a9d39-9ce6-4b58-9041-0fd6dea4fc1e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="jbcteam.sftp.wpengine.com" id="616a9d39-9ce6-4b58-9041-0fd6dea4fc1e" port="2222" customName="JBC Live" nameFormat="CUSTOM" username="jbcteam-jrmymatjob@jbcteam.sftp.wpengine.com" useOpenSSHConfig="false">
+        <option name="customName" value="JBC Live" />
+      </sshConfig>
     </configs>
   </component>
 </application>
