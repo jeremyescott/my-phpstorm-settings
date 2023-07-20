@@ -7,8 +7,8 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lauferandassoc.sftp.wpengine.com" id="5497b4ea-8a45-45e1-8c83-c3a03676d91a" port="2222" customName="Laufer" nameFormat="CUSTOM" username="lauferandassoc-hmg-client">
         <option name="customName" value="Laufer" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="1308a6f198.nxcli.net" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="a0fc0ca2_1" useOpenSSHConfig="true">
-        <option name="customName" value="Matador Demo" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="220ca863ac.nxcli.io" id="72054c54-db39-4404-a4a8-7a8c5cdd5293" port="22" customName="Raise Staging" nameFormat="CUSTOM" username="a612be8c_1" useOpenSSHConfig="true">
+        <option name="customName" value="Raise Staging" />
       </sshConfig>
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="mcmstaffing.sftp.wpengine.com" id="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" port="2222" customName="MCM" nameFormat="CUSTOM" username="mcmstaffing-matador">
         <option name="customName" value="MCM" />
