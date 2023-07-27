@@ -6,6 +6,13 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
+      <webServer id="7a933261-6994-4bf2-92b7-7e5272949722" name="Raise Live">
+        <fileTransfer rootFolder="/chroot/home/ae09067c" accessType="SFTP" host="d9dd340265.nxcli.net" port="22" sshConfigId="df56b6a0-6886-42db-9e01-d1f7f3b594c3" sshConfig="Raise Live">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="6bec1f04-5734-45c5-9a18-993470f48670" name="MCM">
         <fileTransfer accessType="SFTP" host="mcmstaffing.sftp.wpengine.com" port="2222" sshConfigId="5a90d31d-79bb-4f72-b09e-0cfa1add6cde" sshConfig="MCM">
           <advancedOptions>
