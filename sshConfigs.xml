@@ -23,6 +23,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="d9dd340265.nxcli.net" id="df56b6a0-6886-42db-9e01-d1f7f3b594c3" port="22" customName="Raise Live" nameFormat="CUSTOM" username="ae09067c_1" useOpenSSHConfig="false">
         <option name="customName" value="Raise Live" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="1d2d2e3754.nxcli.net" id="af240f56-bb61-4982-87a3-b1ba7cb0653c" port="22" customName="Matchfield Live" nameFormat="CUSTOM" username="a719c9bb_1" useOpenSSHConfig="false">
+        <option name="customName" value="Matchfield Live" />
+      </sshConfig>
     </configs>
   </component>
 </application>
