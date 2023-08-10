@@ -26,6 +26,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="1d2d2e3754.nxcli.net" id="af240f56-bb61-4982-87a3-b1ba7cb0653c" port="22" customName="Matchfield Live" nameFormat="CUSTOM" username="a719c9bb_1" useOpenSSHConfig="false">
         <option name="customName" value="Matchfield Live" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="1308a6f198.nxcli.net" id="26a08626-727c-4d1a-9139-f340fbee6315" port="22" customName="Matador Demo" nameFormat="CUSTOM" username="a0fc0ca2_1" useOpenSSHConfig="true">
+        <option name="customName" value="Matador Demo" />
+      </sshConfig>
     </configs>
   </component>
 </application>
